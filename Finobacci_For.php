@@ -1,7 +1,7 @@
 <?php
 
-//Iqbal Heriyadi
-//D112111005
+//Friana Widya Gunawan
+//D112111022
 
     function print_deret_fibonacci($jumlah){
         $angka_sebelumnya=0;
