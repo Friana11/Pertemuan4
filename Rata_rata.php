@@ -1,7 +1,7 @@
 <?php
 
-//Iqbal Heriyadi
-//D112111005
+//Friana Widya Gunawan
+//D112111022
 
     $nilai_matematika = 60;
     $nilai_fisika = 43;
